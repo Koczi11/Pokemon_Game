@@ -1,12 +1,12 @@
 # Pokemon RPG Game
 
-<div>
-<img src="items/game_state.jpg" alt="Zrzut ekranu świata gry" width="700">
-</div>
-
 Projekt to gra RPG wzorowana na klasykach z konsoli Game Boy Advance. Aplikacja została zrealizowana w języku C++ z wykorzystaniem biblioteki SFML 2.6.2. Projekt zawiera podstawowe mechaniki rozgrywki oraz autorski edytor map. 
 
 Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stworzenia bardziej zaawansowanego tytułu.
+
+<div>
+<img src="items/game_state.jpg" alt="Zrzut ekranu świata gry" width="700">
+</div>
 
 ### Główne funkcjonalności
 
@@ -30,17 +30,16 @@ Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stwor
 
 ### Wbudowany edytor map
 
-<div>
-<img src="items/editor.jpg" alt="Zrzut ekranu edytora map" width="700">
-</div>
-
-
 W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 
 * Obsługa map opartych na kafelkach (tiles) generowanych przez podział pliku graficznego na fragmenty o wymiarach 50x50.
 * Menu wyboru kafelków z możliwością jego ukrycia ("X") dla lepszej widoczności obszaru roboczego.
 * Rozbudowane menu pauzy edytora pozwalające na zapis aktualnej mapy, wczytanie poprzednio zapisanej (w celu kontynuacji pracy) oraz wyjście do menu głównego.
 * Format zapisu przechowujący rozmiar kafelków, ścieżkę do pliku .png oraz układ liczbowy reprezentujący mapę.
+
+<div>
+<img src="items/editor.jpg" alt="Zrzut ekranu edytora map" width="700">
+</div>
 
 ### Technologie
 
@@ -57,12 +56,26 @@ This project is an RPG game inspired by Game Boy Advance classics. The applicati
 
 The game has the potential for further expansion or to be used as a base for creating a more advanced title.
 
+<div>
+<img src="items/game_state.jpg" alt="Screenshot of game" width="700">
+</div>
+
 ### Key Features
 
 * Main menu containing options: new game, load game, settings (with a transition to the editor), and exit.
+
+<div align="center">
+<img src="items/main_menu.jpg" alt="Screenshot of main menu" width="700">
+</div>
+
 * Ability to choose a starter Pokemon and level it up.
 * Random encounter system with enemies hiding in the grass.
 * Combat system allowing the player to flee or use one of 4 available attacks to defeat the opponent.
+
+<div align="center">
+<img src="items/fight_state.jpg" alt="Screenshot of fight" width="700">
+</div>
+
 * Experience (EXP) system where a Pokemon levels up upon earning points equal to: 100 * current level.
 * Engine mechanics support, including camera movement, animation playback, and a collision system.
 * Pause menu (ESC) allowing the player to save the game state and exit to the main menu.
@@ -75,6 +88,10 @@ To facilitate world design, a dedicated map editor has been implemented.
 * Tile selection menu with the ability to hide it ("X") for better visibility of the workspace.
 * Extended editor pause menu allowing you to save the current map, load a previously saved one (to continue working), and exit to the main menu.
 * Save format that stores the tile size, the path to the .png file, and the numerical layout representing the map.
+
+<div>
+<img src="items/editor.jpg" alt="Screenshot of editor" width="700">
+</div>
 
 ### Technologies
 
