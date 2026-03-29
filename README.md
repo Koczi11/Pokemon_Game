@@ -1,7 +1,7 @@
 # Pokemon RPG Game
 
 <div>
-<img src="items/game_state.jpg" alt="Zrzut ekranu świata gry">
+<img src="items/game_state.jpg" alt="Zrzut ekranu świata gry" width="700">
 </div>
 
 Projekt to gra RPG wzorowana na klasykach z konsoli Game Boy Advance. Aplikacja została zrealizowana w języku C++ z wykorzystaniem biblioteki SFML 2.6.2. Projekt zawiera podstawowe mechaniki rozgrywki oraz autorski edytor map. 
@@ -11,9 +11,19 @@ Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stwor
 ### Główne funkcjonalności
 
 * Menu główne zawierające opcje: nowa gra, wczytanie zapisu, ustawienia (z przejściem do edytora) oraz wyjście.
+
+<div align="center">
+<img src="items/main_menu.jpg" alt="Zrzut ekranu głównego menu" width="700">
+</div>
+
 * Możliwość wyboru początkowego pokemona i jego późniejszego rozwijania.
 * System losowych spotkań z przeciwnikami ukrywającymi się w trawie.
 * System walki pozwalający na ucieczkę lub użycie jednego z 4 dostępnych ataków w celu pokonania przeciwnika.
+
+<div align="center">
+<img src="items/fight_state.jpg" alt="Zrzut ekranu walki" width="700">
+</div>
+
 * System doświadczenia (EXP), w którym pokemon awansuje na kolejny poziom po zdobyciu punktów w ilości równej: 100 * aktualny poziom.
 * Obsługa mechanik silnika, w tym praca kamery, odtwarzanie animacji oraz system kolizji.
 * Menu pauzy (ESC) umożliwiające zapisanie stanu gry oraz wyjście do menu głównego.
