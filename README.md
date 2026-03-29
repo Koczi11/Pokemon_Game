@@ -4,7 +4,7 @@ Projekt to gra RPG wzorowana na klasykach z konsoli Game Boy Advance. Aplikacja 
 
 Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stworzenia bardziej zaawansowanego tytułu.
 
-<div>
+<div align="center">
 <img src="items/game_state.jpg" alt="Zrzut ekranu świata gry" width="700">
 </div>
 
@@ -37,7 +37,7 @@ W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 * Rozbudowane menu pauzy edytora pozwalające na zapis aktualnej mapy, wczytanie poprzednio zapisanej (w celu kontynuacji pracy) oraz wyjście do menu głównego.
 * Format zapisu przechowujący rozmiar kafelków, ścieżkę do pliku .png oraz układ liczbowy reprezentujący mapę.
 
-<div>
+<div align="center">
 <img src="items/editor.jpg" alt="Zrzut ekranu edytora map" width="700">
 </div>
 
@@ -56,7 +56,7 @@ This project is an RPG game inspired by Game Boy Advance classics. The applicati
 
 The game has the potential for further expansion or to be used as a base for creating a more advanced title.
 
-<div>
+<div align="center">
 <img src="items/game_state.jpg" alt="Screenshot of game" width="700">
 </div>
 
@@ -89,7 +89,7 @@ To facilitate world design, a dedicated map editor has been implemented.
 * Extended editor pause menu allowing you to save the current map, load a previously saved one (to continue working), and exit to the main menu.
 * Save format that stores the tile size, the path to the .png file, and the numerical layout representing the map.
 
-<div>
+<div align="center">
 <img src="items/editor.jpg" alt="Screenshot of editor" width="700">
 </div>
 
