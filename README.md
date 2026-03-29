@@ -4,7 +4,7 @@ Projekt to gra RPG wzorowana na klasykach z konsoli Game Boy Advance. Aplikacja 
 
 Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stworzenia bardziej zaawansowanego tytułu.
 
-## Główne funkcjonalności
+### Główne funkcjonalności
 
 * Menu główne zawierające opcje: nowa gra, wczytanie zapisu, ustawienia (z przejściem do edytora) oraz wyjście.
 * Możliwość wyboru początkowego pokemona i jego późniejszego rozwijania.
@@ -14,7 +14,7 @@ Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stwor
 * Obsługa mechanik silnika, w tym praca kamery, odtwarzanie animacji oraz system kolizji.
 * Menu pauzy (ESC) umożliwiające zapisanie stanu gry oraz wyjście do menu głównego.
 
-## Wbudowany edytor map
+### Wbudowany edytor map
 
 W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 
@@ -23,7 +23,7 @@ W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 * Rozbudowane menu pauzy edytora pozwalające na zapis aktualnej mapy, wczytanie poprzednio zapisanej (w celu kontynuacji pracy) oraz wyjście do menu głównego.
 * Format zapisu przechowujący rozmiar kafelków, ścieżkę do pliku .png oraz układ liczbowy reprezentujący mapę.
 
-## Technologie
+### Technologie
 
 * Język programowania: C++
 * Biblioteka graficzna: SFML 2.6.2
@@ -31,6 +31,7 @@ W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 <br>
 <br>
 <br>
+--- 
 
 ## English Version
 
@@ -38,7 +39,7 @@ This project is an RPG game inspired by Game Boy Advance classics. The applicati
 
 The game has the potential for further expansion or to be used as a base for creating a more advanced title.
 
-## Key Features
+### Key Features
 
 * Main menu containing options: new game, load game, settings (with a transition to the editor), and exit.
 * Ability to choose a starter Pokemon and level it up.
@@ -48,7 +49,7 @@ The game has the potential for further expansion or to be used as a base for cre
 * Engine mechanics support, including camera movement, animation playback, and a collision system.
 * Pause menu (ESC) allowing the player to save the game state and exit to the main menu.
 
-## Built-in Map Editor
+### Built-in Map Editor
 
 To facilitate world design, a dedicated map editor has been implemented.
 
@@ -57,7 +58,7 @@ To facilitate world design, a dedicated map editor has been implemented.
 * Extended editor pause menu allowing you to save the current map, load a previously saved one (to continue working), and exit to the main menu.
 * Save format that stores the tile size, the path to the .png file, and the numerical layout representing the map.
 
-## Technologies
+### Technologies
 
 * Programming language: C++
 * Graphics library: SFML 2.6.2
