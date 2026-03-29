@@ -31,6 +31,7 @@ W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 <br>
 <br>
 <br>
+
 --- 
 
 ## English Version
