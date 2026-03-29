@@ -29,8 +29,6 @@ W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 * Biblioteka graficzna: SFML 2.6.2
 
 <br>
-<br>
-<br>
 
 --- 
 
