@@ -1,5 +1,9 @@
 # Pokemon RPG Game
 
+<div>
+<img src="items/game_state.jpg" alt="Zrzut ekranu świata gry">
+</div>
+
 Projekt to gra RPG wzorowana na klasykach z konsoli Game Boy Advance. Aplikacja została zrealizowana w języku C++ z wykorzystaniem biblioteki SFML 2.6.2. Projekt zawiera podstawowe mechaniki rozgrywki oraz autorski edytor map. 
 
 Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stworzenia bardziej zaawansowanego tytułu.
@@ -17,7 +21,7 @@ Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stwor
 ### Wbudowany edytor map
 
 <div>
-<img src="items/editor.jpg" alt="Zrzut ekranu interfejsu edytora map" width="700">
+<img src="items/editor.jpg" alt="Zrzut ekranu edytora map" width="700">
 </div>
 
 
