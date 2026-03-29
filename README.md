@@ -17,7 +17,7 @@ Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stwor
 ### Wbudowany edytor map
 
 <div align="center">
-<img src="items/editor_state.jpg" alt="Zrzut ekranu interfejsu edytora map" width="700">
+<img src="items/editor.jpg" alt="Zrzut ekranu interfejsu edytora map" width="700">
 </div>
 
 
