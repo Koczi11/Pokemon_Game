@@ -16,6 +16,11 @@ Gra posiada potencjał do dalszej rozbudowy lub wykorzystania jako baza do stwor
 
 ### Wbudowany edytor map
 
+<div align="center">
+<img src="items/editor_state.jpg" alt="Zrzut ekranu interfejsu edytora map">
+</div>
+
+
 W celu ułatwienia projektowania świata zaimplementowano dedykowany edytor map.
 
 * Obsługa map opartych na kafelkach (tiles) generowanych przez podział pliku graficznego na fragmenty o wymiarach 50x50.
